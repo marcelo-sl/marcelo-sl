@@ -1,4 +1,4 @@
-## Hi there! 😄, I'm brazilian and I'm Systems Analyst at @Pottencial.
+## Hi there! 😄, I'm brazilian and I'm Systems Analyst.
 
 <div align="center">
   <a href="https://github.com/marcelo-sl">
