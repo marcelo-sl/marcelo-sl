@@ -1,4 +1,4 @@
-## Hi there! 😄, I'm brazilian and I'm Software Engineer at @JAASolucoes.
+## Hi there! 😄, I'm brazilian and I'm Systems Analyst at @Pottencial.
 
 <div align="center">
   <a href="https://github.com/marcelo-sl">
