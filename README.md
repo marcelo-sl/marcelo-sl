@@ -1,4 +1,4 @@
-## Hi there! 😄, I'm brazilian and I'm Systems Analyst.
+## Hi there! 😄, I'm a Brazilian Software Developer.
 
 <div align="center">
   <a href="https://github.com/marcelo-sl">
