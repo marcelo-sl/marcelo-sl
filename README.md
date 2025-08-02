@@ -1,10 +1,39 @@
-## Hi there, my name is Marcelo and I'm a software developer, let me tell you more about me.
+## Hi there, my name is Marcelo and I'm a software engineer, let me tell you more about me.
 
-As a software developer, I have experience in .NET C# since 2020. During this time, I have developed applications across multiple platforms, including web, desktop, and services. I used C# to create efficient and scalable solutions, integrating systems and APIs using .NET technologies.
+Interested in web development and cloud computing.
 
-Managed databases with SQL Server and Entity Framework/Dapper to ensure data integrity and performance. I implemented security measures in my applications, such as authentication, authorization and encryption, to protect sensitive information.
+I am a software developer with 5+ years of experience, my greatest expertise is with .NET technologies, I have a degree in Systems Analysis and Development.
 
-I performed testing and debugging to ensure the quality and correct functioning of the software, and collaborated in teams using Git for version control and efficient collaboration. I kept up to date with best practices and trends in the .NET ecosystem to apply them to my projects.
+I have worked with .NET Framework, .NET Core 3.1, .NET 5 and higher versions, building Rest APIs, Serverless Functions (Azure Functions and AWS Lambda), Background Services, Microservices and Monoliths.
+
+### Hard Skills:
+Backend
+- APIs Rest
+- Asynchronous Communication: Azure Service Bus, RabbitMQ, and Kafka
+- Cache: Redis and Memory Cache
+- SQL: SQL Server, PostgreSQL, and MySQL
+- NoSQL: MongoDB and DynamoDB
+- ORMs: Entity Framework and Dapper
+- Tests: Units, Integration and Load
+- Architectures: Clean, Hexagonal, Microservices
+- Patterns: Clean Code, Solid e TDD
+
+DevOps
+- CI/CD: Azure DevOps, Github Actions
+- Cloud: Azure and AWS
+- IaC: Docker, Kubernetes, and Terraform
+- Monitoring: Grafana, Seq and Datadog
+
+Frontend
+- ReactJS
+- AspNet MVC
+- Studying: Blazor C# and .NET MAUI
+
+### Soft Skills:
+- Dissemination of knowledge
+- Proactivity
+- Assertive communication
+- Interested in improving leadership skills
 
 <div align="center">
   <a href="https://github.com/marcelo-sl">
@@ -12,7 +41,7 @@ I performed testing and debugging to ensure the quality and correct functioning 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-sl&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
-## 
+### Contact me
 
 <div> 
   <a href="mailto:mar.sousa2061@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
